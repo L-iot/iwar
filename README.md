@@ -13,3 +13,7 @@ a multi-threaded version that'll work better with VoIP.  iWar2 also intends to b
 <b>
 This code is not complete and is actively being added to and modified!
 </b>
+
+The documentation in the original commit needs some serious fixing.
+i want to give it a try
+
